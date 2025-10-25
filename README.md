@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Platform Banner](https://via.placeholder.com/1200x300/667eea/ffffff?text=Educational+Platform)
 
 **منصة تعليمية شاملة لإدارة الكورسات والطلاب مع نظام دفع متكامل**
 
